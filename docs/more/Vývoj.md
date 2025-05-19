@@ -3,7 +3,7 @@ title: Vývoj FaceAPP
 description: Jak postupovat ve vývoji FaceAPP?
 ---
 
-Pokud se chcete podílet na dalším vývoji tohoto projektu, musíte nejdříve splnit všechny [předpoklady](http://127.0.0.1:8000/dashboard/předpoklady/) a [instalační kroky](http://127.0.0.1:8000/dashboard/instalace/) potřebné pro spuštění aplikace.
+Pokud se chcete podílet na dalším vývoji tohoto projektu, musíte nejdříve splnit všechny [předpoklady](https://jakubkacerek.github.io/BP-DOCS/dashboard/p%C5%99edpoklady/) a [instalační kroky](https://jakubkacerek.github.io/BP-DOCS/dashboard/instalace/) potřebné pro spuštění aplikace.
 
 Dále je doporučeno se obeznámit s použitými knihovnami, jazyky a algoritmy: <br>
         - [**Vývoj androidových aplikací**](https://developer.android.com/) <br>

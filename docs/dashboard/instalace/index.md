@@ -7,7 +7,7 @@ description: Docs intro
 
 ## Instalace potřebného softwaru na počítač
 
-Pro vývoj a nasazení aplikace je třeba splňovat všechny [předpoklady](http://127.0.0.1:8000/dashboard/předpoklady/) a nainstalovat následující nástroje:
+Pro vývoj a nasazení aplikace je třeba splňovat všechny [předpoklady](https://jakubkacerek.github.io/BP-DOCS/dashboard/p%C5%99edpoklady/) a nainstalovat následující nástroje:
 
 ###  Flutter SDK
 
@@ -43,7 +43,7 @@ flutter pub get
 ```
 ## 3. Nastavení pro telefon
 - Ujistěte se, že máte mobilní telefon připojený USB kabelem k počítači.
-- Zkontrolujte, že na telefonu máte zaplé "Možnosti pro vývojáře" a "USB ladění" ukázáno v [předpokladech aplikace](http://127.0.0.1:8000/dashboard/předpoklady/).
+- Zkontrolujte, že na telefonu máte zaplé "Možnosti pro vývojáře" a "USB ladění" ukázáno v [předpokladech aplikace](https://jakubkacerek.github.io/BP-DOCS/dashboard/p%C5%99edpoklady/).
 
 ## 4. Sestavení aplikace na telefon
 - Ověřte, zda je telefon rozpoznán příkazem:
