@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://127.0.0.1:8000/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/dashboard/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/dashboard/instalace/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/dashboard/pou%C5%BEit%C3%AD/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/dashboard/p%C5%99edpoklady/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/more/V%C3%BDvoj/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+</urlset>
